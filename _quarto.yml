@@ -6,6 +6,7 @@ book:
   chapters:
     - index.qmd
     - chapter-1.qmd
+    - the-big-y.qmd
 
 format:
   html:
