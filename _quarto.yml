@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Memoirs of a magpie"
+  chapters:
+    - index.qmd
+    - chapter-1.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: litera
+  pdf:
+    documentclass: scrreprt
+
+
+
