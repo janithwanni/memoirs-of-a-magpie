@@ -12,8 +12,3 @@ format:
   html:
     theme: litera
     number-sections: false
-  pdf:
-    documentclass: scrreprt
-
-
-
