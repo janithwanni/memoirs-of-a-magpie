@@ -6,11 +6,11 @@ book:
   author: "Janith Wanniarachchi"
   chapters:
     - index.qmd
-    - part: "Interacting with the world"
+    - part: "Part 1: Interacting with the world"
       chapters:
         - on-helping-others-and-expecting-help.qmd
         - on-the-unseen-board-games.qmd
-    - part: "Untangling the mind"
+    - part: "Part 2: Untangling the mind"
       chapters:
         - on-the-value-of-ones-life.qmd
   appendices:
@@ -19,4 +19,4 @@ book:
 format:
   html:
     theme: litera
-    number-sections: false
+    number-sections: true
