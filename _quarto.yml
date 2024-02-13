@@ -1,9 +1,15 @@
 project:
   type: book
+  pre-render: word_count_script.R
+  preview:
+    watch-inputs: false
+    navigate: false
 
 book:
   title: "Memoirs of a magpie"
   author: "Janith Wanniarachchi"
+  sidebar:
+    footer: word-count.md
   chapters:
     - index.qmd
     - part: "Part 1: Interacting with the world"
