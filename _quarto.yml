@@ -19,6 +19,7 @@ book:
     - part: "Part 2: Untangling the mind"
       chapters:
         - on-the-value-of-ones-life.qmd
+        - on-chasing-dreams.qmd
   appendices:
     - the-big-y.qmd
 
