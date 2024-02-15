@@ -20,6 +20,7 @@ book:
       chapters:
         - on-the-value-of-ones-life.qmd
         - on-chasing-dreams.qmd
+        - on-meditation.qmd
   appendices:
     - the-big-y.qmd
 
