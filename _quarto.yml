@@ -21,6 +21,9 @@ book:
         - on-the-value-of-ones-life.qmd
         - on-chasing-dreams.qmd
         - on-meditation.qmd
+    - part: "Part 3: My story"
+      chapters:
+        - on-writing.qmd
   appendices:
     - the-big-y.qmd
 

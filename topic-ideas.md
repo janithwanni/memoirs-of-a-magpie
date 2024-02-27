@@ -8,3 +8,6 @@ On buddhism
 On meditation
 On making haste slowly
 On suicide and depression
+On my story
+On my values
+On writing
