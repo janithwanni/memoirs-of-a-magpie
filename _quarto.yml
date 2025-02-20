@@ -19,11 +19,13 @@ book:
     - part: "Part 2: Untangling the mind"
       chapters:
         - on-the-value-of-ones-life.qmd
+        - on-the-fear-of-being-alone.qmd
         - on-chasing-dreams.qmd
         - on-meditation.qmd
     - part: "Part 3: My story"
       chapters:
         - on-writing.qmd
+        - letters.qmd
   appendices:
     - the-big-y.qmd
 
