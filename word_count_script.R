@@ -15,6 +15,9 @@ word_count<-function(txt_doc){
   return(wrds)
 }
 
+if (!nzchar(Sys.getenv("QUARTO_PROJECT_RENDER_ALL"))) {
+  quit()
+}
 print(Sys.getenv("QUARTO_PROJECT_INPUT_FILES"))
 total_word_count <- Sys.getenv("QUARTO_PROJECT_INPUT_FILES") |>
   strsplit("\n") |> 
