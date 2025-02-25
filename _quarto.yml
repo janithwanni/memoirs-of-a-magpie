@@ -32,6 +32,6 @@ book:
 format:
   html:
     theme:
-      light: litera
-      dark: darkly
+      light: [litera, main.scss]
+      dark: [darkly, main.scss]
     number-sections: true
