@@ -27,6 +27,7 @@ book:
       chapters:
         - on-writing.qmd
         - letters.qmd
+        - suicide-notes.qmd 
   appendices:
     - the-big-y.qmd
 
